@@ -1,5 +1,4 @@
 Exploratory Data Analysis 
-johns hopkins bloomberg school of public health
 =========================
 
 This is repository for the Coursera's course "Exploratory Data Analysis". There are 8 files for the Course Project 1: 
